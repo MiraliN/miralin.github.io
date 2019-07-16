@@ -3,8 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'miralin'
-SITENAME = 'Miralin\'s Tech Blog'
-SITELOGO = 'images/avatar.jpg'
+SITENAME = '...'
+SITETITLE = '...'
+SITESUBTITLE = 'There is no spoon'
+
 SITEURL = ''
 
 RELATIVE_URLS = False
@@ -48,11 +50,8 @@ SOCIAL = (('twitter', 'https://twitter.com/MaxNorba'),
 
 DEFAULT_PAGINATION = 10
 
-CC_LICENSE = {
-    'name': 'Creative Commons Attribution-ShareAlike',
-    'version': '4.0',
-    'slug': 'by-sa',
-}
+GITHUB_URL = 'https://github.com/miralin'
+GITHUB_USER = 'miralin'
 
 COPYRIGHT_NAME = AUTHOR
 COPYRIGHT_YEAR = 2019
