@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+import datetime
 from __future__ import unicode_literals
 
 AUTHOR = 'miralin'
@@ -54,4 +55,4 @@ GITHUB_URL = 'https://github.com/miralin'
 GITHUB_USER = 'miralin'
 
 COPYRIGHT_NAME = AUTHOR
-COPYRIGHT_YEAR = 2019
+COPYRIGHT_YEAR = datetime.date.today().year
