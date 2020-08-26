@@ -47,6 +47,7 @@ SOCIAL = (('twitter', 'https://twitter.com/MaxNorba'),
           ('linkedin', 'https://www.linkedin.com/in/miralin'),
           ('github', 'https://github.com/miralin'),
           ('bitbucket', 'https://bitbucket.org/Miralin'),
+          ('lastfm', 'https://www.last.fm/ru/user/Fobinho')
           )
 
 DEFAULT_PAGINATION = 10
