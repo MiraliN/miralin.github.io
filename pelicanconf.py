@@ -43,8 +43,7 @@ LINKS = (('CV', 'https://stavropol.hh.ru/resume/1ec8742fff02010ac20039ed1f427330
          )
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/MaxNorba'),
-          ('linkedin', 'https://www.linkedin.com/in/miralin'),
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/miralin'),
           ('github', 'https://github.com/miralin'),
           ('bitbucket', 'https://bitbucket.org/Miralin'),
           ('gitlab', 'https://gitlab.com/Miralin'),
